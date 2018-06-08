@@ -1,6 +1,6 @@
 # :large_blue_diamond: [Ionic 3] Cordova Background Geolocation &mdash; Demo
 
-[![Google Play](https://dl.dropboxusercontent.com/s/80rf906x0fheb26/google-play-icon.png?dl=1)](https://play.google.com/store/apps/details?id=com.transistorsoft.backgroundgeolocation.ionic2)
+
 
 Fully-featured [Ionic](http://ionicframework.com/)-based sample-application for [Cordova Background Geolocation](http://shop.transistorsoft.com/pages/cordova-background-geolocation-premium)
 
